@@ -1,16 +1,10 @@
-# flutter_api_request
+# Flutter api request with bloc
 
-A new Flutter project.
+Simple api call and bloc management.  
+Check out the Flutter Shop for more.  
+https://uigitdev.com/store/
 
-## Getting Started
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=uigitdev) 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1440" alt="Képernyőfotó 2021-07-14 - 9 19 15" src="https://user-images.githubusercontent.com/46577836/125584587-220b1b0e-dc43-4935-adac-787f4eb8c3e1.png">
+<img width="1440" alt="Képernyőfotó 2021-07-14 - 9 49 55" src="https://user-images.githubusercontent.com/46577836/125584607-cb54900b-6d67-4d4d-8a26-025a04b4f60e.png">
